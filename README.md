@@ -1,6 +1,6 @@
 # Teste
 
-> Projeto Scup Fale+ em [Mithril](http://lhorie.github.io/mithril/)
+> Projeto Palindrome+ em [Mithril](http://lhorie.github.io/mithril/)
 
 ## Quick start
 
@@ -41,4 +41,4 @@ Após executar os comandos acima, enquanto exibe a mensagem de que o servidor vi
 
 ##Demo
 
-[clique aqui](http://scup.martche.ca/#/) para ver funcionando
+[clique aqui](http://palindrome.martche.ca/#/) para ver funcionando
